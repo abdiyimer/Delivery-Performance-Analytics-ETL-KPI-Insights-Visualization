@@ -1,0 +1,2 @@
+# Delivery-Performance-Analytics-ETL-KPI-Insights-Visualization
+Data analytics project focused on delivery performance evaluation. Includes ETL, data cleaning, and integration of orders and delivery datasets, followed by KPI analysis, operational insights, carrier performance comparison, complaint analysis, and visual dashboards to identify SLA gaps, delays, missing orders, and improvement opportunities.
